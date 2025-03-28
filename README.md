@@ -115,7 +115,6 @@ Each strategy has its own set of parameters that can be optimized:
 - `ott_multiplier`: Percentage multiplier for the OTT calculation
 - `band_multiplier`: Multiplier for the band calculation
 
-... (details for other strategies)
 
 ## License
 
